@@ -14,12 +14,12 @@ for checking if the bot is running.
 
 ```# Telegram API Key
 # get from https://my.telegram.org/apps
-export API_ID="1234567"
-export API_HASH="0123456789abcdef0123456789abcdef"
+export API_ID="2585442"
+export API_HASH="a6b73043644d2ac4cc9d055a3815bf9e"
 
 # Telegram Bot Token
 # get from https://t.me/BotFather
-export BOT_TOKEN="123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
+export BOT_TOKEN="1778729418:AAHuZPtUNMw5fu_qeajFJ5gl5QTmWCyRuDU"
 
 # One or more user/group username/id the bot serve to,
 # separate with space
